@@ -1,12 +1,46 @@
-# React + Vite
+# 📝 ToDo List App – React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a minimal and efficient ToDo List web application built using **React** with **Vite** for blazing fast development and **Tailwind CSS** for modern UI styling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add and remove tasks
+- 🎯 Mark tasks as complete/incomplete
+- 💾 Persistent state (if implemented)
+- ⚡️ Fast development with Vite's Hot Module Reloading (HMR)
+- 💅 Styled using Tailwind CSS
+- 🧠 Clean, component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Tech Stack
+
+| Tech             | Purpose                              |
+|------------------|--------------------------------------|
+| **Vite**         | Fast development bundler             |
+| **React**        | UI library for building components   |
+| **Tailwind CSS** | Utility-first styling                |
+| **ESLint**       | Code linting and style checking      |
+
+---
+
+
+
+🧪 Available Scripts
+npm run dev — Starts the dev server with HMR
+
+npm run build — Builds the app for production
+
+npm run preview — Previews the production build
+
+👤 Author
+John Smilin D.S.
+GitHub: @Smilin01
+Email: johnsmilin0@gmail.com
+
+📝 License
+This project is open-source and free to use for learning or commercial purposes.
+
+
